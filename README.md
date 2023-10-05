@@ -1,11 +1,63 @@
 # Hi I'm oHate 👋
-### Socials
-[![Linkedin Badge](https://img.shields.io/badge/-collinistevens-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/collinistevens/)
-[![Website Badge](https://img.shields.io/badge/-ohate.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://ohate.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-collin.i.stevens-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:collin.i.stevens@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-@oHate-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/oHate)](https://github.com/oHate)
+### 📱 My Socials
 
-### What do I use?
+<p>
+  <a href="https://www.linkedin.com/in/collinistevens/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-collinistevens-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ohate.dev/">
+    <img alt="Website" src="https://img.shields.io/badge/-ohate.dev-47CCCC?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:collin.i.stevens@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-collin.i.stevens-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/oHate">
+    <img alt="GitHub" src="https://img.shields.io/badge/-@oHate-24292e?style=flat&logo=github&logoColor=white" />
+  </a>
+  <img alt="Discord" src="https://img.shields.io/badge/-@oHate-5865F2?style=flat&logo=discord&logoColor=white" />
+</p>
+
+I've been working in Java for over 5 years, I got started in Java by developing plugins and mods for Minecraft. Check out some of my recent projects I've been working on:
+
+### 📁 My Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/oHate/SurvivalMultiplayer"><b>Minecraft SMP Plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/oHate/SurvivalMultiplayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/oHate/SurvivalMultiplayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/oHate/SurvivalMultiplayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oHate/SurvivalMultiplayer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oHate/Vanguard"><b>Multipurpose Discord Bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/oHate/Vanguard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/oHate/Vanguard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/oHate/Vanguard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oHate/Vanguard?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/oHate/Lime"><b>Minecraft Backend Core</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/oHate/Lime?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/oHate/Lime?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/oHate/Lime?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oHate/Lime?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🔧 Tools I Use
+
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -24,14 +76,6 @@
   <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?flat-square&logo=bun&logoColor=white" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
-
-I've been working in Java for over 5 years, I got started in Java by developing plugins and mods for Minecraft. Check out some of my recent projects I've been working on:
-
-#### 📁 Recent Projects
-
-- [Survival Multiplayer](https://github.com/oHate/SurvivalMultiplayer) - Survival Multiplayer plugin
-- [Vanguard](https://github.com/oHate/Vanguard) - Multipurpose discord bot
-- [Lime](https://github.com/oHate/Lime) - Minecraft server backend & core
 
 #### 💻 My Technology Stack
 
