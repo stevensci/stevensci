@@ -77,7 +77,7 @@ I've been working in Java for over 5 years, I got started in Java by developing 
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
-#### 💻 My Technology Stack
+### 💻 My Technology Stack
 
 - **🖥️ Platforms**: Backend, Minecraft: Java Edition
 - **🌐 Languages**:️ Java, JavaScript, TypeScript
