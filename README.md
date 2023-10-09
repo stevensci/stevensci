@@ -21,6 +21,8 @@ I've been working in Java for over 5 years, I got started in Java by developing 
 
 ### 📁 My Projects
 
+<b>My attempt at a fully non-spigot/bukkit minecraft network:</b> https://github.com/MineTaleNetwork
+
 <table>
   <thead align="center">
     <tr border: none;>
